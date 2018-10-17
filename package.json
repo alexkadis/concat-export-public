@@ -30,9 +30,12 @@
   "homepage": "https://github.com/gko/concat#readme",
   "devDependencies": {
     "@types/core-js": "^0.9.41",
-    "@types/node": "^7.0.0",
-    "core-js": "^2.4.1",
+    "@types/es6-promise": "^3.3.0",
+    "@types/node": "^7.10.0",
+    "core-js": "^2.5.7",
+    "fs": "0.0.1-security",
     "mocha": "^3.2.0",
+    "path": "^0.12.7",
     "typescript": "^2.1.5"
   },
   "dependencies": {
